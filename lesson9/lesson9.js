@@ -13,3 +13,4 @@ console.log(a9===b9) //true
 console.log(a9===c9) //false
 console.log(a9===d9) //false
 //=> toán tử === so sánh về giá trị và cả về kiểu dữ liệu 
+//note: khi so sánh nên sử dụng ===
