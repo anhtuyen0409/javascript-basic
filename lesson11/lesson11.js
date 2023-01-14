@@ -6,8 +6,8 @@ while(i < arr11.length){
     i++
 }
 
-let j = 0;
+/*let j = 0;
 do{
     console.log('Top ',j+1,': ',arr11[j])
     j++
-}while(j < arr11.length);
+}while(j < arr11.length);*/
